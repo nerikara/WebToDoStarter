@@ -32,3 +32,8 @@ out/
 
 ### VS Code ###
 .vscode/
+target/.history
+target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous
+target/streams/_global/_global/checkBuildSources/_global/streams/out
+
+.metals
